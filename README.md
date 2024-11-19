@@ -5,6 +5,7 @@ My name is <strong>Tima</strong> and I'm a <strong>Fullstack Developer</strong><
 ###
 
 <div align="center">
+  <span>Profile Views</span>
   <img src="https://profile-counter.glitch.me/timakaa/count.svg" />
 </div>
 
