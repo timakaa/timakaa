@@ -1,9 +1,10 @@
 <!-- Intro  -->
 <h3 align="center">
-<samp>&gt; this is timakaa, writes lots of code.
-</samp><br /><br />
-<samp>&gt; take a look at my site <a href="https://timaka-portfolio.vercel.app/" target="_blank">https://timaka-portfolio.vercel.app/</a>
-</samp>
+    <samp>&gt; this is timakaa, writes lots of code.
+    </samp><br /><br />
+    <samp>&gt; take a look at my site <a href="https://timaka-portfolio.vercel.app/" target="_blank">https://timaka-portfolio.vercel.app/</a>
+    </samp>
+</h3>
 <br />
 <br />
 
@@ -44,5 +45,4 @@
 | **Hosting** | ![Self Hosted](https://img.shields.io/badge/Self--Hosted-000000?style=for-the-badge&logo=serverfault&logoColor=white) VPS / Bare Metal |
 
 </details>
-</h3>
 
