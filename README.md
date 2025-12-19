@@ -43,7 +43,7 @@
 | **Containerize** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker--Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google--Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
 | **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub--Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab--CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
-| **Hosting** | ![Self Hosted](https://img.shields.io/badge/Self--Hosted-000000?style=for-the-badge&logo=serverfault&logoColor=white)|
+| **Hosting** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Self Hosted](https://img.shields.io/badge/Self--Hosted-000000?style=for-the-badge&logo=serverfault&logoColor=white)|
 
 </details>
 
